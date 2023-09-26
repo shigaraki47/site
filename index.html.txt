@@ -1,2 +1,3 @@
 class=”…“ – Atribui uma classe ao elemento (uma classe pode ser utilizada para um ou mais elementos
 id=”…“ – Atribui um id ao elemento (um id deve ser único, ou seja atribuído a um único elemento
+style=”…” – Permite incluir elementos CSS (estilos) dentro da tag
