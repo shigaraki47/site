@@ -1,1 +1,7 @@
 começando
+  body {
+    background-color: blue;
+  }
+  h1 {
+    background–color: purple;
+  }
