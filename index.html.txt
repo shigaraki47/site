@@ -1,0 +1,1 @@
+class=”…“ – Atribui uma classe ao elemento (uma classe pode ser utilizada para um ou mais elementos
