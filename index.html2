@@ -1,0 +1,173 @@
+começando
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Document</title>
+</head>
+<body>
+<!-- Conteúdo -->
+</body>
+</html>
+
+<html> 
+    <head> 
+        <title>Exemplo do atributo href</title> 
+    </head> 
+    <body> 
+        <h1>Exemplo do atributo href</h1> 
+        <p> 
+            <a href="https://www.freecodecamp.org/contribute/">A página de contribuição do freeCodeCamp</a> 
+            mostra para você como e onde você pode contribuir com a comunidade e com o crescimento do freeCodeCamp. 
+        </p> 
+    </body> 
+</html>
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+
+    <title>My page title</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One"
+      rel="stylesheet"
+      type="text/css" />
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- as três linhas abaixo são uma correção para que elementos semânticos HTML5 funcionem em versões antigas do Internet Explorer-->
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <![endif]-->
+  </head>
+
+
+
+
+
+    <div class="carrinho-de-compras">
+  <h2>Carrinho de compras</h2>
+  <ul>
+    <li>
+      <p>
+        <a href=""><strong>Brincos de prata</strong></a
+        >: $99.95.
+      </p>
+      <img src="../products/3333-0985/thumb.png" alt="Brincos de prata" />
+    </li>
+    <li>...</li>
+  </ul>
+  <p>Preço total: $237.89</p>
+</div>
+
+
+    <!DOCTYPE html>
+<html>
+    <head>
+        <link real="stylesheet" href="style.css">
+        <meta charset="UTF-8">
+    </head>
+    <body background="color" #400072>
+
+
+
+
+        <h1> titulo </h1>
+        <h1 class="interno"> titulo interno </h1>
+        <p> parágrafo </p>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+    <style>
+        /*AQUI VAI TODO NOSSO CÓDIGO CSS*/
+    </style>
+</head>
+<body>
+<header><!--criando um cabeçalho para nossa página com um menu-->
+    <h2>Minha Página</h2>
+    <nav><!--vamos criar um menu utilizando listas-->
+        <ul>
+            <li>Home</li>
+            <li>Meu menu</li>
+        </ul>
+    </nav><!--aqui finaliza o meu menu-->
+</header>
+<main>    
+    <section><!--vamos criar a primeira section do meu documento-->
+        <article>
+            <h3>Titulo do meu artigo</h3>
+            <p>Conteudo do meu artigo</p>
+            <p>Mais conteúdo para o meu artigo</p>
+            <ol><!--vamos criar uma lista ordenada-->
+                <li>item 1</li>
+                <li>item 2</li>
+                <li>item 3</li>
+            </ol>
+        </article><!-- aqui finaliza meu primeiro artigo da section-->
+        <article>
+            <h3>Titulo do meu segundo artigo</h3>
+            <p>Conteudo do meu segundo artigo</p>
+            <p>Mais conteúdo para o meu segundo artigo</p>        
+        </article><!--aqui finaliza meu segundo artigo da section-->
+</section><!--aqui encerra a primeira section do meu documento-->
+</main><!--aqui finaliza todo conteúdo principal do corpo da pagina-->
+
+<aside>
+    <h4>Conteúdos relacionados</h4>
+    <ul>
+        <li>Página oficial da <a href="https://www.homehost.com.br/">Home Host</a></li>
+        <li>item da lista</li>
+        <li>item da lista</li>
+    </ul>
+</aside>
+
+<footer>
+    <div><!--criando uma divisão para meu rodapé-->
+        <p>Inscreva-se para receber noticias</p>
+        <form method="post">
+            <input type="text" name="nome" placeholder="Digite seu Nome">
+            <input type="email" name="email" placeholder="Digite seu Email">
+            <input type="submit" name="enviar" value="Enviar">
+        </form>
+    </div>
+    <div><!--criando outra para meu rodapé-->
+        <h3>Minha primeira página html</h3>
+        <span>Todos os direitos reservados</span>
+    </div>
+</footer>
+
+<script>
+    //AQUI VAI NOSSO CÓDIGO DE SCRIPT (JAVASCRIPT)
+</script>
+
+</body>
+</html>
