@@ -10,3 +10,9 @@ começando
 body {
   background-image: url("barn.jpg");
 }
+
+
+body {
+  background-image: url("barn.jpg");
+  background-repeat: repeat-y;
+}
