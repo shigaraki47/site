@@ -5,3 +5,8 @@ começando
   h1 {
     background–color: purple;
   }
+
+
+body {
+  background-image: url("barn.jpg");
+}
